@@ -1,2 +1,3 @@
 # Organization for works
-[git-flow](documents/flow.md)
+## rules
+- [git-flow](documents/flow.md)
