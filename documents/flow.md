@@ -13,4 +13,6 @@
 このブランチ上では作業をしないこと
 
 #### **feature** : 機能追加用
-developにマージすること。
+developにマージすること。Jiraからここにブランチを切ること
+
+[戻る](/profile/README.md)

@@ -1,3 +1,5 @@
-## Organization for works
-### rules
-- [git-flow](../documents/flow.md)
+# 概要
+業務用の組織です。
+## 運用ルール
+### git flow(ブランチ等の運用)
+[ページ](/documents/flow.md)
